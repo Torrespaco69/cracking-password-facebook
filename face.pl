@@ -16,7 +16,7 @@
 #
 # Demo:
 # perl Imad'Ox-Bruter.pl Facebooklogin@facebook.com wordlist.lst
-#
+#https://www.facebook.com/claudia.hernandezbarrios?mibextid=ZbWKwL
 # --- Imad'Ox-Bruter Facebook password cracking tool
 # --- By Imad'Ox Hunter
 # --- www.facebook.com/imad.elouajib
